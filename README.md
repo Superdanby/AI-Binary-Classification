@@ -10,4 +10,4 @@
 
 
 ## Methods to Test
-Nonlinear SVM, Random forests, Decision Tree, Bayesian networks(?), Logistic regression(?)
+Nonlinear SVM, Random forests, Bayesian networks(?), <del>Logistic regression</del>, [resample](http://contrib.scikit-learn.org/imbalanced-learn/stable/)

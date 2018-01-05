@@ -1,0 +1,590 @@
+[I 14:37:29.599 NotebookApp] Writing notebook server cookie secret to /run/user/1005/jupyter/notebook_cookie_secret
+[I 14:37:29.772 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 14:37:29.772 NotebookApp] 0 active kernels
+[I 14:37:29.772 NotebookApp] The Jupyter Notebook is running at:
+[I 14:37:29.772 NotebookApp] http://localhost:8888/?token=6b3eac7451e06af6abe4637a024dcf2aab605f9861a58e43
+[I 14:37:29.772 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 14:37:29.772 NotebookApp] No web browser found: could not locate runnable browser.
+[C 14:37:29.772 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6b3eac7451e06af6abe4637a024dcf2aab605f9861a58e43
+[C 15:00:25.041 NotebookApp] received signal 15, stopping
+[I 15:00:25.042 NotebookApp] Shutting down 0 kernels
+[I 15:00:52.397 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 15:00:52.397 NotebookApp] 0 active kernels
+[I 15:00:52.397 NotebookApp] The Jupyter Notebook is running at:
+[I 15:00:52.397 NotebookApp] http://localhost:8888/?token=f34b85854e214c309dfc646a0c853bcdd8f853f6a91c436e
+[I 15:00:52.397 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 15:00:52.398 NotebookApp] No web browser found: could not locate runnable browser.
+[C 15:00:52.398 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f34b85854e214c309dfc646a0c853bcdd8f853f6a91c436e
+[C 15:01:41.003 NotebookApp] received signal 15, stopping
+[I 15:01:41.003 NotebookApp] Shutting down 0 kernels
+[I 16:00:52.055 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 16:00:52.055 NotebookApp] 0 active kernels
+[I 16:00:52.055 NotebookApp] The Jupyter Notebook is running at:
+[I 16:00:52.055 NotebookApp] https://[all ip addresses on your system]:8888/
+[I 16:00:52.055 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:01:13.993 NotebookApp] SSL Error on 9 ('1.173.129.215', 30487): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:13.997 NotebookApp] SSL Error on 10 ('1.173.129.215', 62290): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:14.009 NotebookApp] SSL Error on 9 ('1.173.129.215', 26990): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:14.180 NotebookApp] SSL Error on 9 ('1.173.129.215', 59292): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:19.204 NotebookApp] SSL Error on 9 ('1.173.129.215', 34697): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:24.823 NotebookApp] SSL Error on 9 ('1.173.129.215', 27817): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:29.422 NotebookApp] SSL Error on 10 ('1.173.129.215', 58617): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:29.431 NotebookApp] SSL Error on 9 ('1.173.129.215', 13762): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:01:30.283 NotebookApp] SSL Error on 9 ('1.173.129.215', 19938): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[C 16:02:21.027 NotebookApp] received signal 15, stopping
+[I 16:02:21.027 NotebookApp] Shutting down 0 kernels
+[I 16:03:03.098 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 16:03:03.098 NotebookApp] 0 active kernels
+[I 16:03:03.098 NotebookApp] The Jupyter Notebook is running at:
+[I 16:03:03.098 NotebookApp] https://[all ip addresses on your system]:8888/
+[I 16:03:03.098 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:03:07.365 NotebookApp] SSL Error on 9 ('1.173.129.215', 24486): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:07.369 NotebookApp] SSL Error on 10 ('1.173.129.215', 48865): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:07.376 NotebookApp] SSL Error on 9 ('1.173.129.215', 19946): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:09.452 NotebookApp] SSL Error on 9 ('1.173.129.215', 62653): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.135 NotebookApp] SSL Error on 10 ('1.173.129.215', 49749): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.139 NotebookApp] SSL Error on 9 ('1.173.129.215', 4206): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.148 NotebookApp] SSL Error on 9 ('1.173.129.215', 42444): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.352 NotebookApp] SSL Error on 9 ('1.173.129.215', 58760): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.506 NotebookApp] SSL Error on 10 ('1.173.129.215', 51298): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.510 NotebookApp] SSL Error on 9 ('1.173.129.215', 19362): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.520 NotebookApp] SSL Error on 9 ('1.173.129.215', 6300): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.681 NotebookApp] SSL Error on 9 ('1.173.129.215', 45827): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.816 NotebookApp] SSL Error on 9 ('1.173.129.215', 44249): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.820 NotebookApp] SSL Error on 9 ('1.173.129.215', 35227): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.830 NotebookApp] SSL Error on 9 ('1.173.129.215', 45319): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:10.958 NotebookApp] SSL Error on 9 ('1.173.129.215', 43268): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.124 NotebookApp] SSL Error on 10 ('1.173.129.215', 31733): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.128 NotebookApp] SSL Error on 9 ('1.173.129.215', 24884): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.138 NotebookApp] SSL Error on 9 ('1.173.129.215', 45869): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.274 NotebookApp] SSL Error on 9 ('1.173.129.215', 4475): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.284 NotebookApp] SSL Error on 9 ('1.173.129.215', 55349): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:11.293 NotebookApp] SSL Error on 9 ('1.173.129.215', 6227): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:03:13.530 NotebookApp] SSL Error on 9 ('1.173.129.215', 17802): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[C 16:05:48.607 NotebookApp] received signal 15, stopping
+[I 16:05:48.608 NotebookApp] Shutting down 0 kernels
+[I 16:05:52.129 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 16:05:52.130 NotebookApp] 0 active kernels
+[I 16:05:52.130 NotebookApp] The Jupyter Notebook is running at:
+[I 16:05:52.130 NotebookApp] https://[all ip addresses on your system]:8888/
+[I 16:05:52.130 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:05:58.180 NotebookApp] SSL Error on 9 ('1.173.129.215', 44948): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:06:02.069 NotebookApp] SSL Error on 10 ('1.173.129.215', 23023): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:06:02.074 NotebookApp] SSL Error on 9 ('1.173.129.215', 20600): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:06:02.082 NotebookApp] SSL Error on 9 ('1.173.129.215', 2111): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:06:04.357 NotebookApp] SSL Error on 9 ('1.173.129.215', 59202): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[C 16:06:15.411 NotebookApp] received signal 15, stopping
+[I 16:06:15.412 NotebookApp] Shutting down 0 kernels
+[I 16:07:56.641 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 16:07:56.641 NotebookApp] 0 active kernels
+[I 16:07:56.641 NotebookApp] The Jupyter Notebook is running at:
+[I 16:07:56.641 NotebookApp] https://[all ip addresses on your system]:8888/
+[I 16:07:56.641 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:08:30.856 NotebookApp] SSL Error on 10 ('1.173.129.215', 31498): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:08:30.860 NotebookApp] SSL Error on 9 ('1.173.129.215', 5973): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:08:30.867 NotebookApp] SSL Error on 9 ('1.173.129.215', 36567): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:08:31.084 NotebookApp] SSL Error on 9 ('1.173.129.215', 45022): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:08:36.105 NotebookApp] SSL Error on 9 ('1.173.129.215', 33351): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[W 16:09:06.131 NotebookApp] SSL Error on 9 ('1.173.129.215', 6169): [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:777)
+[C 16:10:00.216 NotebookApp] received signal 15, stopping
+[I 16:10:00.217 NotebookApp] Shutting down 0 kernels
+usage: jupyter [-h] [--version] [--config-dir] [--data-dir] [--runtime-dir]
+               [--paths] [--json]
+               [subcommand]
+jupyter: error: one of the arguments --version subcommand --config-dir --data-dir --runtime-dir --paths is required
+[C 16:27:56.338 NotebookApp] Bad config encountered during initialization:
+[C 16:27:56.338 NotebookApp] Unrecognized flag: '-no-browser'
+The Jupyter HTML Notebook.
+
+This launches a Tornado based HTML Notebook Server that serves up an
+HTML5/Javascript Notebook client.
+
+Subcommands
+-----------
+
+Subcommands are launched as `jupyter-notebook cmd [args]`. For information on
+using subcommand 'cmd', do: `jupyter-notebook cmd -h`.
+
+list
+    List currently running notebook servers.
+stop
+    Stop currently running notebook server for a given port
+password
+    Set a password for the notebook server.
+
+Options
+-------
+
+Arguments that take values are actually convenience aliases to full
+Configurables, whose aliases are listed on the help line. For more information
+on full configurables, see '--help-all'.
+
+--debug
+    set log level to logging.DEBUG (maximize logging output)
+--generate-config
+    generate default config file
+-y
+    Answer yes to any questions instead of prompting.
+--no-browser
+    Don't open the notebook in a browser after startup.
+--pylab
+    DISABLED: use %pylab or %matplotlib in the notebook to enable matplotlib.
+--no-mathjax
+    Disable MathJax
+    
+    MathJax is the javascript library Jupyter uses to render math/LaTeX. It is
+    very large, so you may want to disable it if you have a slow internet
+    connection, or for offline use of the notebook.
+    
+    When disabled, equations etc. will appear as their untransformed TeX source.
+--allow-root
+    Allow the notebook to be run from root user.
+--script
+    DEPRECATED, IGNORED
+--no-script
+    DEPRECATED, IGNORED
+--log-level=<Enum> (Application.log_level)
+    Default: 30
+    Choices: (0, 10, 20, 30, 40, 50, 'DEBUG', 'INFO', 'WARN', 'ERROR', 'CRITICAL')
+    Set the log level by value or name.
+--config=<Unicode> (JupyterApp.config_file)
+    Default: ''
+    Full path of a config file.
+--ip=<Unicode> (NotebookApp.ip)
+    Default: 'localhost'
+    The IP address the notebook server will listen on.
+--port=<Int> (NotebookApp.port)
+    Default: 8888
+    The port the notebook server will listen on.
+--port-retries=<Int> (NotebookApp.port_retries)
+    Default: 50
+    The number of additional ports to try if the specified port is not
+    available.
+--transport=<CaselessStrEnum> (KernelManager.transport)
+    Default: 'tcp'
+    Choices: ['tcp', 'ipc']
+--keyfile=<Unicode> (NotebookApp.keyfile)
+    Default: ''
+    The full path to a private key file for usage with SSL/TLS.
+--certfile=<Unicode> (NotebookApp.certfile)
+    Default: ''
+    The full path to an SSL/TLS certificate file.
+--client-ca=<Unicode> (NotebookApp.client_ca)
+    Default: ''
+    The full path to a certificate authority certificate for SSL/TLS client
+    authentication.
+--notebook-dir=<Unicode> (NotebookApp.notebook_dir)
+    Default: ''
+    The directory to use for notebooks and kernels.
+--browser=<Unicode> (NotebookApp.browser)
+    Default: ''
+    Specify what command to use to invoke a web browser when opening the
+    notebook. If not specified, the default browser will be determined by the
+    `webbrowser` standard library module, which allows setting of the BROWSER
+    environment variable to override it.
+--pylab=<Unicode> (NotebookApp.pylab)
+    Default: 'disabled'
+    DISABLED: use %pylab or %matplotlib in the notebook to enable matplotlib.
+
+To see all available configurables, use `--help-all`
+
+Examples
+--------
+
+    jupyter notebook                       # start the notebook
+    jupyter notebook --certfile=mycert.pem # use SSL/TLS certificate
+    jupyter notebook password              # enter a password to protect the server
+
+[I 16:33:32.975 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 16:33:32.975 NotebookApp] 0 active kernels
+[I 16:33:32.975 NotebookApp] The Jupyter Notebook is running at:
+[I 16:33:32.975 NotebookApp] http://localhost:8889/?token=b943fb620bfafe97ad83db8cb1253266bc33c55fb33a7a8b
+[I 16:33:32.975 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:33:32.976 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=b943fb620bfafe97ad83db8cb1253266bc33c55fb33a7a8b
+[I 16:33:37.632 NotebookApp] Interrupted...
+[I 16:33:37.633 NotebookApp] Shutting down 0 kernels
+[W 17:36:44.931 NotebookApp] Collisions detected in /hdd/home/superdanby/.jupyter/jupyter_notebook_config.py and /hdd/home/superdanby/.jupyter/jupyter_notebook_config.json config files. /hdd/home/superdanby/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'sha1:e947ae01518e:6aed222ae78b5a770497aee9918504b375624238' ignored, using 'sha1:5e1040bc8420:34c501866603dbfcf032f41240fb6e6341d75a47'"
+      }
+    }
+[I 17:36:45.110 NotebookApp] Serving notebooks from local directory: /hdd/home/superdanby/Github/AI-Binary-Classification
+[I 17:36:45.110 NotebookApp] 0 active kernels
+[I 17:36:45.110 NotebookApp] The Jupyter Notebook is running at:
+[I 17:36:45.111 NotebookApp] https://[all ip addresses on your system]:11111/
+[I 17:36:45.111 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 17:37:00.849 NotebookApp] 404 GET /api/kernels/c4893402-37ed-4cd3-a0f3-b0dc36df8fb8/channels?session_id=AC272FCC1CFC451F8F1AE2E4281D5861 (127.0.0.1): Kernel does not exist: c4893402-37ed-4cd3-a0f3-b0dc36df8fb8
+[W 17:37:00.884 NotebookApp] 404 GET /api/kernels/c4893402-37ed-4cd3-a0f3-b0dc36df8fb8/channels?session_id=AC272FCC1CFC451F8F1AE2E4281D5861 (127.0.0.1) 45.38ms referer=None
+[E 17:37:09.250 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/hdd/home/superdanby/Github/AI-Binary-Classification/venv/lib/python3.6/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/hdd/home/superdanby/Github/AI-Binary-Classification/venv/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 264, in restart_kernel
+        self._check_kernel_id(kernel_id)
+      File "/hdd/home/superdanby/Github/AI-Binary-Classification/venv/lib/python3.6/site-packages/notebook/services/kernels/kernelmanager.py", line 343, in _check_kernel_id
+        raise web.HTTPError(404, u'Kernel does not exist: %s' % kernel_id)
+    tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: c4893402-37ed-4cd3-a0f3-b0dc36df8fb8)
+[E 17:37:09.252 NotebookApp] {
+      "Host": "localhost:8889",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Origin": "https://localhost:8889",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|8562411c|da6318faa6795f3c2f97d50a511db8d3|1513800135",
+      "User-Agent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36",
+      "Referer": "https://localhost:8889/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+      "Cookie": "_xsrf=2|8562411c|da6318faa6795f3c2f97d50a511db8d3|1513800135; username-localhost-8888=\"2|1:0|10:1514526546|23:username-localhost-8888|44:MzMwMjVmZTk1MGU1NDlmNWIzYTZiMDgxYjRkMGQ5ZDM=|a8bd1e72829cdb637eb75b3db5d6f1a0ffd1b37d0d43aab2a85f32228c87f4a5\"; username-localhost-8889=\"2|1:0|10:1514538020|23:username-localhost-8889|44:MTY2NzUxZTdiYzM4NGIzNDkzOWRlZjM0ZTQ4MTBlZGM=|2cd9999a89b47c3e16815029672d03930c3391a4ee2c96936012bf135d11698c\""
+    }
+[E 17:37:09.252 NotebookApp] 500 POST /api/kernels/c4893402-37ed-4cd3-a0f3-b0dc36df8fb8/restart (127.0.0.1) 3.82ms referer=https://localhost:8889/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[W 17:37:09.270 NotebookApp] 404 DELETE /api/sessions/6721439f-5c71-4595-9734-f342eeff157f (127.0.0.1): Session not found: session_id='6721439f-5c71-4595-9734-f342eeff157f'
+[W 17:37:09.270 NotebookApp] Session not found: session_id='6721439f-5c71-4595-9734-f342eeff157f'
+[W 17:37:09.271 NotebookApp] 404 DELETE /api/sessions/6721439f-5c71-4595-9734-f342eeff157f (127.0.0.1) 3.37ms referer=https://localhost:8889/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:37:09.322 NotebookApp] Kernel started: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:37:09.708 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:37:15.767 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AC272FCC1CFC451F8F1AE2E4281D5861
+[I 17:37:16.080 NotebookApp] Kernel restarted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:37:16.574 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:37:16.576 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AC272FCC1CFC451F8F1AE2E4281D5861
+[I 17:37:16.576 NotebookApp] Replaying 6 buffered messages
+[I 17:38:04.895 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AC272FCC1CFC451F8F1AE2E4281D5861
+[I 17:38:05.033 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:38:05.035 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AC272FCC1CFC451F8F1AE2E4281D5861
+[I 17:38:20.593 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:42:20.598 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:44:20.667 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:44:46.353 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 17:46:20.669 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:48:20.713 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:50:20.653 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:52:21.140 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:56:20.628 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 17:58:20.608 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:00:20.625 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:02:20.676 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:04:20.623 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:06:20.660 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:08:20.682 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:10:20.658 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:12:20.596 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:14:20.650 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 18:14:48.489 NotebookApp] Notebook Binary Classification-Feature Engineering-Copy1.ipynb is not trusted
+[W 18:14:48.506 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.61ms referer=https://localhost:8889/notebooks/Binary%20Classification-Feature%20Engineering-Copy1.ipynb
+[I 18:14:49.439 NotebookApp] Kernel started: a164cdf6-9095-4395-8330-30a135b56ea6
+[I 18:14:49.812 NotebookApp] Adapting to protocol v5.1 for kernel a164cdf6-9095-4395-8330-30a135b56ea6
+[W 18:17:35.035 NotebookApp] WebSocket ping timeout after 119893 ms.
+[I 18:17:40.039 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AC272FCC1CFC451F8F1AE2E4281D5861
+[W 18:17:49.813 NotebookApp] WebSocket ping timeout after 119942 ms.
+[I 18:17:54.816 NotebookApp] Starting buffering for a164cdf6-9095-4395-8330-30a135b56ea6:2C6ED0DA38084BB887F65B800A6E8E63
+[I 20:43:35.036 NotebookApp] Adapting to protocol v5.1 for kernel a164cdf6-9095-4395-8330-30a135b56ea6
+[I 20:43:35.036 NotebookApp] Restoring connection for a164cdf6-9095-4395-8330-30a135b56ea6:2C6ED0DA38084BB887F65B800A6E8E63
+[W 20:44:03.894 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 3.29ms referer=https://localhost:8889/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:44:06.535 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 20:46:04.068 NotebookApp] Kernel restarted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[W 20:46:04.070 NotebookApp] zmq message arrived on closed channel
+[I 20:46:04.071 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 20:46:04.769 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:46:05.248 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 20:46:05.249 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 20:46:05.250 NotebookApp] Replaying 3 buffered messages
+[W 20:49:35.036 NotebookApp] WebSocket ping timeout after 119116 ms.
+[W 20:49:35.249 NotebookApp] WebSocket ping timeout after 119329 ms.
+[I 20:49:40.039 NotebookApp] Starting buffering for a164cdf6-9095-4395-8330-30a135b56ea6:2C6ED0DA38084BB887F65B800A6E8E63
+[I 20:49:40.250 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 20:53:48.139 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 21:06:26.778 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 21:07:20.821 NotebookApp] Kernel restarted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 21:07:21.647 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 21:07:21.647 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 21:07:21.647 NotebookApp] Replaying 6 buffered messages
+[W 21:17:38.268 NotebookApp] 404 GET /static/components/proptypes/index.js.map (127.0.0.1) 3.24ms referer=None
+[W 21:17:38.585 NotebookApp] 404 GET /static/components/preact-compat/preact-compat.min.js.map (127.0.0.1) 0.95ms referer=None
+[I 21:51:18.866 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 22:45:20.332 NotebookApp] Notebook Binary Classification-Feature Engineering-Copy1.ipynb is not trusted
+[W 22:45:20.515 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.30ms referer=https://localhost:8889/notebooks/Binary%20Classification-Feature%20Engineering-Copy1.ipynb
+[I 22:45:22.219 NotebookApp] Adapting to protocol v5.1 for kernel a164cdf6-9095-4395-8330-30a135b56ea6
+[I 22:48:49.310 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 23:14:10.756 NotebookApp] Starting buffering for a164cdf6-9095-4395-8330-30a135b56ea6:F42BC0EB04724BBD90ACC135C68949EC
+[I 23:22:13.846 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 23:46:19.769 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:10:22.258 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 01:30:18.204 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 01:30:18.205 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 01:30:18.205 NotebookApp] Replaying 96 buffered messages
+[I 01:41:19.530 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:38:49.558 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 05:31:18.205 NotebookApp] WebSocket ping timeout after 119795 ms.
+[I 05:31:23.206 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 12:53:48.838 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 12:53:48.839 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 12:54:42.180 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 13:11:18.839 NotebookApp] WebSocket ping timeout after 119908 ms.
+[I 13:11:23.840 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 14:39:37.011 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 14:39:37.011 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 15:23:12.073 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 16:20:41.705 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 16:38:07.011 NotebookApp] WebSocket ping timeout after 119834 ms.
+[I 16:38:12.012 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 21:10:21.147 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 21:10:21.147 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 21:10:21.147 NotebookApp] Replaying 42 buffered messages
+[I 21:51:46.457 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 22:45:27.326 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:23.086 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.016 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.146 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.396 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.566 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.744 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:26.906 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.086 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.226 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.386 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.486 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.715 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:27.816 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.046 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.224 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.306 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.566 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.746 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:28.929 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:29.036 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:29.274 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:29.453 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:29.626 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:29.740 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.016 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.116 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.356 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.536 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.716 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:30.816 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:31.126 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:31.256 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:31.526 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:31.626 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:31.926 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:32.124 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:32.306 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:32.406 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:32.666 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:32.764 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.074 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.176 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.426 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.646 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.736 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:33.986 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:34.100 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:34.346 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:34.466 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:34.736 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:34.826 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.096 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.196 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.442 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.626 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.766 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:35.934 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.124 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.286 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.385 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.676 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.863 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:36.974 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:37.216 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:37.332 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:37.586 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:37.716 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:37.956 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:38.066 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:46:38.336 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:48:24.305 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:49:15.616 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 22:50:26.604 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:27.584 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:27.694 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:27.964 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:28.094 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:28.314 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:28.414 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:28.694 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:43.804 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:48.174 NotebookApp] Kernel interrupted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:50.652 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 22:50:55.707 NotebookApp] Kernel restarted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:56.316 NotebookApp] Kernel restarted: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:56.705 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:56.705 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 22:50:56.705 NotebookApp] Replaying 9 buffered messages
+[I 22:50:56.765 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 22:50:57.239 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 22:50:57.239 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 22:50:57.239 NotebookApp] Replaying 3 buffered messages
+[I 23:46:45.834 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:39:15.787 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 03:11:57.239 NotebookApp] WebSocket ping timeout after 119955 ms.
+[I 03:12:02.240 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 10:46:25.553 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 10:46:25.554 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 10:46:25.554 NotebookApp] Replaying 62 buffered messages
+[I 11:12:32.638 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 12:10:02.656 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 12:12:55.554 NotebookApp] WebSocket ping timeout after 119899 ms.
+[I 12:13:00.555 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 13:36:00.815 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 13:36:00.817 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 13:36:00.817 NotebookApp] Replaying 8 buffered messages
+[W 14:03:00.818 NotebookApp] WebSocket ping timeout after 119953 ms.
+[I 14:03:05.818 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 14:45:26.972 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 14:45:26.972 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 14:45:26.972 NotebookApp] Replaying 24 buffered messages
+[W 14:53:56.972 NotebookApp] WebSocket ping timeout after 119835 ms.
+[I 14:54:01.974 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:354DE482EB9C4D6C8A8DA7E476D4430D
+[I 15:38:41.675 NotebookApp] 302 GET / (127.0.0.1) 1.00ms
+[W 15:38:57.063 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.09ms referer=https://localhost:8889/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 15:39:01.357 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[W 18:08:01.360 NotebookApp] WebSocket ping timeout after 119833 ms.
+[I 18:08:06.361 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:01FD924E7D5C43CF8885EEC593F140B6
+[I 18:19:09.656 NotebookApp] 302 GET / (127.0.0.1) 0.97ms
+[I 18:19:09.707 NotebookApp] 302 GET /tree? (127.0.0.1) 2.20ms
+[I 18:19:15.095 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 0.57ms
+[W 18:21:13.772 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.16ms referer=https://localhost:8888/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:21:15.049 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 18:23:14.719 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 18:23:17.974 NotebookApp] Notebook Binary Classification-Feature Engineering-Copy1.ipynb is not trusted
+[W 18:23:18.016 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.20ms referer=https://localhost:8888/notebooks/Binary%20Classification-Feature%20Engineering-Copy1.ipynb
+[I 18:23:19.938 NotebookApp] Adapting to protocol v5.1 for kernel a164cdf6-9095-4395-8330-30a135b56ea6
+[I 18:25:14.719 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:27:14.688 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:29:14.748 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:31:14.723 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:33:10.434 NotebookApp] Starting buffering for a164cdf6-9095-4395-8330-30a135b56ea6:D526CF9DCEAC4AF487752EEE52A2A2AF
+[I 18:33:14.646 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:35:14.697 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:37:14.778 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:41:14.749 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:45:14.810 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:47:14.770 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:49:14.750 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:53:15.379 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:55:14.759 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 18:57:14.761 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 19:01:14.844 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 19:07:14.790 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 19:09:14.762 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 19:11:14.973 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:03:15.276 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:05:15.004 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:09:15.026 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:11:14.970 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:15:15.002 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:17:15.095 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:39:15.405 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:47:15.343 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 20:49:14.976 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 20:52:45.050 NotebookApp] WebSocket ping timeout after 115598 ms.
+[I 20:52:50.050 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 00:06:06.185 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 00:06:06.186 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 00:06:06.186 NotebookApp] Replaying 51 buffered messages
+[I 00:07:15.206 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:15:15.203 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:19:14.873 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:23:14.961 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 00:25:19.227 NotebookApp] Notebook Binary Classification.ipynb is not trusted
+[W 00:25:19.302 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 1.44ms referer=https://localhost:8888/notebooks/Binary%20Classification.ipynb
+[I 00:25:20.292 NotebookApp] Kernel started: 6da8085a-bd61-4692-899a-4d6bc310ab96
+[I 00:25:21.637 NotebookApp] Adapting to protocol v5.1 for kernel 6da8085a-bd61-4692-899a-4d6bc310ab96
+[I 00:27:14.852 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:29:14.855 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:31:14.867 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:33:14.818 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:35:14.923 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:41:22.114 NotebookApp] Starting buffering for 6da8085a-bd61-4692-899a-4d6bc310ab96:9746463904264405B6BF87237ED383A2
+[I 00:41:22.114 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 02:27:14.672 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 02:27:14.673 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 02:27:14.673 NotebookApp] Replaying 21 buffered messages
+[I 02:27:17.741 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:41:17.943 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:45:17.952 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:49:17.427 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:51:17.384 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:53:17.445 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 02:55:17.425 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 03:01:17.807 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 03:03:17.423 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 03:05:44.673 NotebookApp] WebSocket ping timeout after 119941 ms.
+[I 03:05:49.674 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 12:44:00.426 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 12:44:00.426 NotebookApp] Restoring connection for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 12:44:00.426 NotebookApp] Replaying 67 buffered messages
+[I 12:45:16.091 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 13:49:15.140 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 13:51:15.142 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 14:44:00.427 NotebookApp] WebSocket ping timeout after 119710 ms.
+[I 14:44:05.428 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:A7259B2974FF40D1BD0B01A601F81060
+[I 23:54:45.362 NotebookApp] 302 GET / (127.0.0.1) 0.23ms
+[W 23:54:57.324 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.64ms referer=https://localhost:8888/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 23:54:58.952 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 23:58:59.038 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[I 00:00:25.600 NotebookApp] Saving file at /Binary Classification - (pca-lda)RandomForest-(pca)SVM.ipynb
+[W 00:00:39.732 NotebookApp] Notebook Binary Classification.ipynb is not trusted
+[W 00:00:39.811 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.64ms referer=https://localhost:8888/notebooks/Binary%20Classification.ipynb
+[I 00:00:41.418 NotebookApp] Adapting to protocol v5.1 for kernel 6da8085a-bd61-4692-899a-4d6bc310ab96
+[I 00:00:52.864 NotebookApp] Kernel shutdown: 6da8085a-bd61-4692-899a-4d6bc310ab96
+[W 00:00:52.865 NotebookApp] zmq message arrived on closed channel
+[W 00:01:01.287 NotebookApp] Notebook Binary Classification-Feature Engineering-Copy1.ipynb is not trusted
+[W 00:01:01.331 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.69ms referer=https://localhost:8888/notebooks/Binary%20Classification-Feature%20Engineering-Copy1.ipynb
+[I 00:01:02.930 NotebookApp] Adapting to protocol v5.1 for kernel a164cdf6-9095-4395-8330-30a135b56ea6
+[I 00:01:07.390 NotebookApp] Starting buffering for a164cdf6-9095-4395-8330-30a135b56ea6:18905ACB8EEB432281837D55483CA50B
+[I 00:01:08.142 NotebookApp] Kernel shutdown: a164cdf6-9095-4395-8330-30a135b56ea6
+[W 00:11:28.955 NotebookApp] WebSocket ping timeout after 119666 ms.
+[I 00:11:33.955 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:3A9BE13966724A6E868B625A2ABC4F33
+[I 14:32:56.582 NotebookApp] 302 GET / (127.0.0.1) 1.14ms
+[W 14:33:11.599 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.65ms referer=https://localhost:8888/notebooks/Binary%20Classification%20-%20(pca-lda)RandomForest-(pca)SVM.ipynb
+[I 14:33:13.460 NotebookApp] Adapting to protocol v5.1 for kernel 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
+[I 14:35:13.420 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[W 15:02:49.502 NotebookApp] Notebook Binary Classification.ipynb is not trusted
+[W 15:02:49.526 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 0.63ms referer=https://localhost:8888/notebooks/Binary%20Classification.ipynb
+[I 15:02:50.729 NotebookApp] Kernel started: 6b49cbb5-cdef-4235-aa9f-81f2c2ce40e5
+[I 15:02:51.327 NotebookApp] Adapting to protocol v5.1 for kernel 6b49cbb5-cdef-4235-aa9f-81f2c2ce40e5
+[W 15:02:52.270 NotebookApp] Notebook Binary Classification-Feature Engineering-Copy1.ipynb is not trusted
+[W 15:02:52.303 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 2.22ms referer=https://localhost:8888/notebooks/Binary%20Classification-Feature%20Engineering-Copy1.ipynb
+[I 15:02:53.373 NotebookApp] Kernel started: 2268507b-9047-422b-896d-40b3fb5d9368
+[I 15:02:54.018 NotebookApp] Adapting to protocol v5.1 for kernel 2268507b-9047-422b-896d-40b3fb5d9368
+[I 15:03:13.112 NotebookApp] Starting buffering for 6b49cbb5-cdef-4235-aa9f-81f2c2ce40e5:C60B6DB5159F46C189E556B164F38092
+[I 15:03:13.427 NotebookApp] Kernel shutdown: 6b49cbb5-cdef-4235-aa9f-81f2c2ce40e5
+[I 15:05:13.850 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[I 15:07:13.419 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[I 15:15:10.391 NotebookApp] Starting buffering for 2268507b-9047-422b-896d-40b3fb5d9368:5C9F75DCD7FC42439A91283891CC4990
+[I 15:15:11.130 NotebookApp] Kernel shutdown: 2268507b-9047-422b-896d-40b3fb5d9368
+[I 15:59:14.264 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[I 16:01:14.331 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[W 18:11:24.100 NotebookApp] Notebook Classification - test.ipynb is not trusted
+[W 18:11:24.143 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js (127.0.0.1) 3.22ms referer=https://localhost:8888/notebooks/Classification%20-%20test.ipynb
+[I 18:11:24.505 NotebookApp] Kernel started: 4ba98732-af85-463d-85b3-3ecfad477bc8
+[I 18:11:24.995 NotebookApp] Adapting to protocol v5.1 for kernel 4ba98732-af85-463d-85b3-3ecfad477bc8
+[I 18:51:20.394 NotebookApp] Starting buffering for 4ba98732-af85-463d-85b3-3ecfad477bc8:C1C78044157541F38081F95AF77E92C2
+[I 18:51:21.180 NotebookApp] Kernel shutdown: 4ba98732-af85-463d-85b3-3ecfad477bc8
+[I 18:55:47.731 NotebookApp] Saving file at /Binary Classification - RandomForest + PCA*SVM.ipynb
+[I 18:55:55.024 NotebookApp] Starting buffering for 1c28f290-01d5-4b3f-bb60-bc97cc6a927b:AEE7DF7B63E24E4DA64E0DC83170D4C2
+[I 18:55:55.544 NotebookApp] Kernel shutdown: 1c28f290-01d5-4b3f-bb60-bc97cc6a927b
